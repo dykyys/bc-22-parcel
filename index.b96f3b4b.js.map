@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI,iBACZD,QAAQC,IAAI","sources":["src/index.js"],"sourcesContent":["console.log('Hello bc 22!!');\r\nconsole.log('parcel work!');\r\n"],"names":["console","log"],"version":3,"file":"index.b96f3b4b.js.map"}
