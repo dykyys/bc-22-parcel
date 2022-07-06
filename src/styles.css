@@ -1,0 +1,16 @@
+.title {
+  color: hotpink;
+  font-family: cursive;
+}
+
+.descr {
+  color: blueviolet;
+  font-weight: 700;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 15px;
+  background-color: cadetblue;
+}
