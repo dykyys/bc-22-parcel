@@ -1,0 +1,28 @@
+{
+  "name": "bc-22-parcel",
+  "version": "1.0.0",
+  "description": "parcel test",
+  "source": "src/index.html",
+  "homepage": "https://dykyys.github.io/bc-22-parcel",
+  "scripts": {
+    "start": "parcel -p 7777",
+    "build": "parcel build src/index.html --public-url /bc-22-parcel/",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dykyys/bc-22-parcel.git"
+  },
+  "author": "dykyys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dykyys/bc-22-parcel/issues"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
