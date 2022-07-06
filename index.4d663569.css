@@ -10,9 +10,12 @@
 
 .container {
   max-width: 900px;
-  background-color: #5f9ea0;
   margin: 0 auto;
   padding: 0 15px;
+}
+
+section {
+  background-color: #5f9ea0;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
